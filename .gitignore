@@ -4,3 +4,5 @@ src-tauri/target/
 .DS_Store
 Thumbs.db
 *.log
+.claude/
+agent/
